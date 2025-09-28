@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+dist/
+
+# Environment files
+.env
+.env.local
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+package.json
+
+# Config files (will be created in user's home directory)
+# ~/.commit-gen-config.json
